@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# Acerca de mi
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Soy un estudiante de programacion el cual esta interesado en diversos temas de la informatica.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+### Objetivo
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+El objetivo actual de este sitio web es realizar publicaciones acerca de lo que me interesa y con esto tener un lugar donde guardar y difundir informacion de mi interes.
