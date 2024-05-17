@@ -3,8 +3,8 @@ layout: home
 ---
 # Acerca de mi
 
-Soy un estudiante de programacion el cual esta interesado en diversos temas de la informatica.
+Soy un estudiante de ciencias de la computacion al cual le apasiona la inteligencia artificial.
 
-### Objetivo
+### Contenido
 
-El objetivo actual de este sitio web es realizar publicaciones acerca de lo que me interesa y con esto tener un lugar donde guardar y difundir informacion de mi interes.
+Aqui subire todos los proyectos los cuales tanto haya realizado como en los que haya tenido participación activa.
