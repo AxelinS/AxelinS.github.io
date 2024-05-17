@@ -1,6 +1,6 @@
 # Site
 title: AxelinS
-description: Mi pagina web sera para publicar algunas notas o articulos que me parezcan interesantes con el proposito de archivarlas para su posterior consulta.
+description: Robin Axel Andrade Perez.
 url: https://AxelinS.github.io
 logo: AxelinS.png                                       # Site logo
 locale: en_US
@@ -29,13 +29,13 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:             AxelinW112@gmail.com
+email:             axelinw112@gmail.com
 #google.plus:        username
 #twitter:            username
 #facebook:           username
 github:             AxelinS
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          Robin Axel Andrade Perez
 #xing:              username
 #instagram:          username
 #lastfm:            username
