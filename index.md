@@ -3,7 +3,7 @@ layout: home
 ---
 # Acerca de mi
 
-Soy un estudiante de ciencias de la computacion al cual le apasiona la inteligencia artificial.
+Soy un estudiante de ciencias computacionales al cual le apasiona la inteligencia artificial.
 
 ### Contenido
 
